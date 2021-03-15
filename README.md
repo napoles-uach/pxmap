@@ -28,4 +28,4 @@ fig.update_layout(mapbox_style='carto-positron')
 px_static(fig)
 ```
 
-!["streamlit_pxmap example"](_static/streamlit_folium_example.png)
+!["streamlit_pxmap example"](image/pxmap.png)
