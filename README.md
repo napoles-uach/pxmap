@@ -1,5 +1,8 @@
 # pxmap
-Component for rendering plotly express maps in Streamlit
+Component for rendering scatter_mapbox with plotly express  in Streamlit
+
+
+!["streamlit_pxmap example"](image/pxmap.png)
 ## Installation
 
 ```python
@@ -28,4 +31,3 @@ fig.update_layout(mapbox_style='carto-positron')
 px_static(fig)
 ```
 
-!["streamlit_pxmap example"](image/pxmap.png)
