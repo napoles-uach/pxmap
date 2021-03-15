@@ -1,5 +1,5 @@
 # pxmap
-## Component for rendering scatter_mapbox with plotly express  in Streamlit
+** Component for rendering scatter_mapbox with plotly express  in Streamlit **
 
 
 !["streamlit_pxmap example"](image/pxmap.png)
